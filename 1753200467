@@ -1,0 +1,144 @@
+Report at /reports/1753200467
+Total files: 1000
+
+Most Active Months
+2013-01: 91
+/home/skndash96/httpd/modules/core/test/ref/test19.out
+/home/skndash96/httpd/modules/core/test/ref/test68.out
+/home/skndash96/httpd/modules/core/test/ref/test29.out
+/home/skndash96/httpd/modules/core/test/ref/test53.out
+/home/skndash96/httpd/modules/core/test/ref/test59.out
+/home/skndash96/httpd/modules/core/test/ref/test63.out
+/home/skndash96/httpd/modules/core/test/ref/test15.out
+/home/skndash96/httpd/modules/core/test/ref/test27.out
+/home/skndash96/httpd/modules/core/test/ref/test67.out
+/home/skndash96/httpd/modules/core/test/ref/test07.out
+2021-10: 51
+/home/skndash96/httpd/server/mpm/mpmt_os2/mpmt_os2.c
+/home/skndash96/httpd/server/gen_test_char.c
+/home/skndash96/httpd/test/pyhttpd/__init__.py
+/home/skndash96/httpd/test/pyhttpd/htdocs/test2/006/006.css
+/home/skndash96/httpd/test/pyhttpd/htdocs/test2/10%abnormal.txt
+/home/skndash96/httpd/test/pyhttpd/htdocs/test2/alive.json
+/home/skndash96/httpd/test/pyhttpd/htdocs/test2/x%2f.test
+/home/skndash96/httpd/test/pyhttpd/htdocs/alive.json
+/home/skndash96/httpd/test/pyhttpd/htdocs/index.html
+/home/skndash96/httpd/test/pyhttpd/htdocs/test1/004/gophertiles.jpg
+2015-07: 51
+/home/skndash96/httpd/modules/core/test/Makefile
+/home/skndash96/httpd/modules/core/test/conf/test11.conf
+/home/skndash96/httpd/modules/core/test/conf/test07.conf
+/home/skndash96/httpd/modules/core/test/conf/test24.conf
+/home/skndash96/httpd/modules/core/test/conf/test39.conf
+/home/skndash96/httpd/modules/core/test/conf/test31.conf
+/home/skndash96/httpd/modules/core/test/conf/test16.conf
+/home/skndash96/httpd/modules/core/test/conf/test36.conf
+/home/skndash96/httpd/modules/core/test/conf/test06.conf
+/home/skndash96/httpd/modules/core/test/conf/test18.conf
+2025-07: 45
+/home/skndash96/httpd/.git/index
+/home/skndash96/httpd/.git/description
+/home/skndash96/httpd/.git/HEAD
+/home/skndash96/httpd/.git/hooks/pre-merge-commit.sample
+/home/skndash96/httpd/.git/hooks/push-to-checkout.sample
+/home/skndash96/httpd/.git/hooks/pre-push.sample
+/home/skndash96/httpd/.git/hooks/prepare-commit-msg.sample
+/home/skndash96/httpd/.git/hooks/fsmonitor-watchman.sample
+/home/skndash96/httpd/.git/hooks/post-update.sample
+/home/skndash96/httpd/.git/hooks/applypatch-msg.sample
+2025-02: 38
+/home/skndash96/httpd/changes-entries/pr69579.txt
+/home/skndash96/httpd/changes-entries/pr69590.txt
+/home/skndash96/httpd/changes-entries/md_v2.5.1.txt
+/home/skndash96/httpd/changes-entries/mod_rewrite_unset_cookie.txt
+/home/skndash96/httpd/changes-entries/dav-get-base-path.txt
+/home/skndash96/httpd/include/scoreboard.h
+/home/skndash96/httpd/INSTALL
+/home/skndash96/httpd/server/scoreboard.c
+/home/skndash96/httpd/test/modules/md/test_751_sectigo.py
+/home/skndash96/httpd/test/modules/md/test_740_acme_errors.py
+2025-03: 29
+/home/skndash96/httpd/changes-entries/pr69624.txt
+/home/skndash96/httpd/changes-entries/h2_v2.0.30.txt
+/home/skndash96/httpd/changes-entries/pr69580.txt
+/home/skndash96/httpd/support/NWGNUhttxt2dbm
+/home/skndash96/httpd/support/NWGNUhtdigest
+/home/skndash96/httpd/support/NWGNUhtpasswd
+/home/skndash96/httpd/support/NWGNUab
+/home/skndash96/httpd/support/NWGNUhtcacheclean
+/home/skndash96/httpd/support/NWGNUfirehose
+/home/skndash96/httpd/support/NWGNUrotlogs
+2024-07: 24
+/home/skndash96/httpd/README.cmake
+/home/skndash96/httpd/server/request.c
+/home/skndash96/httpd/build/build-modules-c.cmake
+/home/skndash96/httpd/build/build-modules-c.awk
+/home/skndash96/httpd/build/modules.c.in
+/home/skndash96/httpd/CMakeLists.txt
+/home/skndash96/httpd/test/pyhttpd/env.py
+/home/skndash96/httpd/test/modules/core/conftest.py
+/home/skndash96/httpd/test/modules/http2/test_103_upgrade.py
+/home/skndash96/httpd/test/modules/http2/test_203_rfc9113.py
+2023-06: 23
+/home/skndash96/httpd/include/http_request.h
+/home/skndash96/httpd/support/htdbm.c
+/home/skndash96/httpd/server/protocol.c
+/home/skndash96/httpd/test/clients/Makefile.in
+/home/skndash96/httpd/test/clients/.gitignore
+/home/skndash96/httpd/test/pyhttpd/config.ini.in
+/home/skndash96/httpd/test/pyhttpd/ws_util.py
+/home/skndash96/httpd/test/modules/http2/test_503_proxy_fwd.py
+/home/skndash96/httpd/test/modules/http2/test_003_get.py
+/home/skndash96/httpd/test/modules/http2/test_004_post.py
+2023-07: 21
+/home/skndash96/httpd/support/apxs.in
+/home/skndash96/httpd/server/util_filter.c
+/home/skndash96/httpd/test/pyhttpd/log.py
+/home/skndash96/httpd/test/modules/core/test_001_encoding.py
+/home/skndash96/httpd/test/modules/http2/test_100_conn_reuse.py
+/home/skndash96/httpd/test/modules/http2/test_106_shutdown.py
+/home/skndash96/httpd/test/modules/http2/test_008_ranges.py
+/home/skndash96/httpd/test/modules/http2/test_712_buffering.py
+/home/skndash96/httpd/test/modules/http2/test_102_require.py
+/home/skndash96/httpd/test/modules/http2/test_500_proxy.py
+2023-04: 20
+/home/skndash96/httpd/include/http_config.h
+/home/skndash96/httpd/include/mod_auth.h
+/home/skndash96/httpd/server/apreq_parser_multipart.c
+/home/skndash96/httpd/server/buildmark.c
+/home/skndash96/httpd/server/apreq_parser_urlencoded.c
+/home/skndash96/httpd/server/mpm/simple/simple_core.c
+/home/skndash96/httpd/server/apreq_parser.c
+/home/skndash96/httpd/server/apreq_parser_header.c
+/home/skndash96/httpd/server/apreq_module_cgi.c
+/home/skndash96/httpd/test/README.pytest
+
+Most Common Extensions
+c: 152
+py: 126
+h: 114
+conf: 76
+out: 69
+none: 64
+txt: 40
+in: 36
+dsp: 31
+m4: 27
+
+Largest File sizes
+347700009 /home/skndash96/httpd/.git/objects/pack/pack-8e743957ded24d44453570f9442100d2ff897fcf.pack
+14947136 /home/skndash96/httpd/.git/objects/pack/pack-8e743957ded24d44453570f9442100d2ff897fcf.idx
+2135204 /home/skndash96/httpd/.git/objects/pack/pack-8e743957ded24d44453570f9442100d2ff897fcf.rev
+426039 /home/skndash96/httpd/.git/index
+206291 /home/skndash96/httpd/server/core.c
+190576 /home/skndash96/httpd/modules/dav/main/mod_dav.c
+172214 /home/skndash96/httpd/server/mpm/event/event.c
+120973 /home/skndash96/httpd/support/ab.c
+117312 /home/skndash96/httpd/server/util.c
+108453 /home/skndash96/httpd/CHANGES
+
+Most Common Permissions
+644: 833
+755: 59
+444: 3
+777: 1
