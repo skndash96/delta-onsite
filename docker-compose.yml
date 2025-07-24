@@ -1,7 +1,75 @@
 services:
-  httpd-server:
+  main-proxy:
     build:
       context: httpd-server
       dockerfile: Dockerfile
     ports:
       - "8082:80"
+
+  cse1:
+    build:
+      context: app
+      dockerfile: Dockerfile
+    environment:
+      - DEPT=CSE
+      - INSTANCE=1
+  cse2:
+    build:
+      context: app
+      dockerfile: Dockerfile
+    environment:
+      - DEPT=CSE
+      - INSTANCE=2
+  cse3:
+    build:
+      context: app
+      dockerfile: Dockerfile
+    environment:
+      - DEPT=CSE
+      - INSTANCE=3
+
+  eee1:
+    build:
+      context: app
+      dockerfile: Dockerfile
+    environment:
+      - DEPT=EEE
+      - INSTANCE=1  
+  eee2:
+    build:
+      context: app
+      dockerfile: Dockerfile
+    environment:
+      - DEPT=EEE
+      - INSTANCE=2  
+  eee3:
+    build:
+      context: app
+      dockerfile: Dockerfile
+    environment:
+      - DEPT=EEE
+      - INSTANCE=3
+  
+  mech1:
+    build:
+      context: app
+      dockerfile: Dockerfile
+    environment:
+      - DEPT=MECH
+      - INSTANCE=1  
+  mech2:
+    build:
+      context: app
+      dockerfile: Dockerfile
+    environment:
+      - DEPT=MECH
+      - INSTANCE=2 
+  mech3:
+    build:
+      context: app
+      dockerfile: Dockerfile
+    environment:
+      - DEPT=MECH
+      - INSTANCE=3
+
+# everything is in same network
